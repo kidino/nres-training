@@ -76,3 +76,4 @@ Follow these steps to install and run the project locally using [Laravel Herd](h
 - Make sure you have [Composer](https://getcomposer.org/) installed.
 - Laravel Herd is available for macOS and Windows. Download it from [herd.laravel.com](https://herd.laravel.com/).
 - For more information on Laravel, visit the [official documentation](https://laravel.com/docs).
+- CAPTCHA on register and login page using [mews/captcha](https://github.com/mewebstudio/captcha)
