@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.pagination [aria-current="page"] span {
+    background-color: #9b9b9b !important; /* blue-600 */
+    color: #fff !important;
+}

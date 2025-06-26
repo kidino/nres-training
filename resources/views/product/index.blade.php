@@ -22,7 +22,7 @@
                 </form>
             </div>
 
-            <div class="mb-3">
+            <div class="pagination mb-3">
                 {{ $products->links() }}
             </div>
 
@@ -140,9 +140,6 @@ function productModal() {
                 this.$refs.deleteForm.submit();
             }
         }
-    }
-}
-</script>
     }
 }
 </script>
